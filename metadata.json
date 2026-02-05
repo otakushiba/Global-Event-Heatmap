@@ -1,0 +1,7 @@
+{
+  "name": "Global Event Heatmap",
+  "description": "A high-fidelity global event monitoring dashboard with real-time heat mapping and intelligent risk analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
